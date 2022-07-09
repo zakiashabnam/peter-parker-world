@@ -1,5 +1,6 @@
 body {
     font-family: 'Roboto', sans-serif;
+    margin: 0px;
 }
 
 h1 {
@@ -33,4 +34,10 @@ section {
 
 .half-width img {
     width: 95%
+}
+
+.top-banner {
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+
 }
