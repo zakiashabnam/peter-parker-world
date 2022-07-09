@@ -19,6 +19,7 @@ section {
 .half-width {
     width: 50%;
     padding-left: 5%;
+    padding-right: 2%;
 }
 
 .link-button {
@@ -29,8 +30,6 @@ section {
     color: white;
     font-weight: 500;
 
-
-
 }
 
 .half-width img {
@@ -40,5 +39,12 @@ section {
 .top-banner {
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+
+}
+
+.dream-big {
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 
 }
