@@ -59,8 +59,33 @@ h1 {
 .web-developer {
     box-shadow: 10px 10px 40px slateblue;
     width: 40%;
-    margin-right: 5%;
+    margin-right: 2%;
     margin-left: 5%;
-    padding-left: 5px;
-    padding-right: 5px;
+    padding-left: 2px;
+    padding-right: 2px;
+
+
+}
+
+.Experience-area {
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+#present {
+
+    border-left: 7px solid tomato;
+
+
+}
+
+#past {
+    border-left: 7px solid green;
+
+
+}
+
+footer p {
+    text-align: center;
 }
